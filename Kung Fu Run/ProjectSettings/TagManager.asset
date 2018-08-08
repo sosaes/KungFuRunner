@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collector
+  - Enemy
+  - GoodShade
+  - FullHeartBar
+  - GrabHeart
+  - DeathDetector
+  - CurrentPointsBar
+  - GrabDumpling
+  - Floor
+  - Plane1
+  - Plane2
+  - Plane3
+  - Plane4
+  - Plane5
+  - Plane6
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Collector
+  - Enemy
+  - AttackDetector
+  - FireBall
+  - DragonBall
+  - Sword
+  - SwordThrower
+  - SwordShader
+  - SwordShade
+  - GoodShade
+  - DeathDetector
+  - LifeDetector
+  - FireBlast
+  - SwordBlast
+  - Life
+  - Coin
+  - GrabHeart
+  - GrabDumpling
+  - Bottom
+  - GoodFire
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

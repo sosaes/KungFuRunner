@@ -1,0 +1,9 @@
+lastUpgrade=00940
+proj.pluginVersion=0.9.40
+proj.AppId=699692539446
+and.BundleId=com.ESosa.KungFuRun
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--+app_id+--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e699692539446%3c%2fstring%3e%0d%0a++%3c%21--+package_name+--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.ESosa.KungFuRun%3c%2fstring%3e%0d%0a++%3c%21--+leaderboard+Leaderboards+--%3e%0d%0a++%3cstring+name%3d%22leaderboard_leaderboards%22+translatable%3d%22false%22%3eCgkItryzx64UEAIQAQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=699692539446-qhdclvc7lfcc34qtj6ehffic3p9mfegc.apps.googleusercontent.com
+android.SetupDone=true

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b7eaa255ce99ad240ab747d35f7866c3
+timeCreated: 1499817820
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Seven Monkey Fury BB
+  fontNames:
+  - Seven Monkey Fury BB
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
